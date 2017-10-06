@@ -34,11 +34,13 @@ section {
   section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
+    color: #fec503;
     margin-bottom: 15px; }
   section h3.section-subheading {
     font-size: 20px;
     font-weight: 400;
     /* font-style: italic; */
+    line-height: 1.5;
     margin-bottom: 75px;
     text-transform: none;
     font-family: 'Noto Sans KR', 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
