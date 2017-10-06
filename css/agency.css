@@ -77,8 +77,11 @@ body {
     font-family: 'Noto Sans KR', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #fed136;
-    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
+    background-color: #fed136;
+    padding: 0 15px;
+    color: #000;
+    font-weight: 300;
+    font-family: 'Teko', 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #fec503; }
   #mainNav .navbar-nav .nav-item .nav-link {
@@ -114,7 +117,7 @@ body {
       background-color: #222222; }
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
-        padding: 12px 0; } }
+        padding: 0px 10px; } }
 
 header.masthead {
   text-align: center;
