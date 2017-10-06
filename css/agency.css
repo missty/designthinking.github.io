@@ -281,6 +281,9 @@ header.transparent {
 /* #program table tr th {
 	background-color: #ffeaa5;
 } */
+#program table tr th{
+	vertical-align: middle;
+}
 #program table tr td{
 	vertical-align: middle;
 }
