@@ -38,7 +38,7 @@ section {
     margin-bottom: 15px; }
   section h3.section-subheading {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 500;
     /* font-style: italic; */
     line-height: 1.5;
     margin-bottom: 75px;
@@ -216,7 +216,7 @@ header.transparent {
 
 #news p.news-title {
 	font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 0.25rem; }
 
 #news .thumbnail {
