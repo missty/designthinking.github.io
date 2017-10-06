@@ -209,13 +209,12 @@ header.transparent {
     color: #fec503 !important; }
 
 #news p {
-	display: inline-block;
 	line-height: 1.5;
 }
 #news p.news-title {
 	font-size: 18px;
   font-weight: 600;
-  margin-bottom: 0.25rem !important; }
+  margin-bottom: 0.25rem; }
 
 #news .thumbnail {
   right: 0;
