@@ -215,7 +215,9 @@ header.transparent {
 	line-height: 1.75;
     font-weight: 600; }
 
-
+#news .thumbnail {
+  right: 0;
+  margin: 0 0 15px; }
 
 #benefits .portfolio-item {
   right: 0;
