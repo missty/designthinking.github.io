@@ -83,7 +83,9 @@ body {
     font-weight: 300;
     font-family: 'Teko', 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #fec503; }
+      /* color: #fec503; */
+      color: #fec503;
+      background-color: transparent;  }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
