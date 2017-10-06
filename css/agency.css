@@ -282,6 +282,10 @@ header.transparent {
 	color: #fec503;
     font-weight: 600; }
 
+#event .subtext a, #event .subtext a:active, #event .subtext a:hover, #event .subtext a:focus {
+	color: #868e96 !important;
+}
+
 #program table {
 	table-layout: fixed;
 }
