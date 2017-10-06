@@ -273,6 +273,9 @@ header.transparent {
 	color: #fec503;
     font-weight: 600; }
 
+#program table {
+	table-layout: fixed;
+}
 #program table thead th {
 	background-color: #fed136;
 	font-weight: 600;
