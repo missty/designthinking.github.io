@@ -254,14 +254,16 @@ header.transparent {
 	margin: 20px 0;
 }
   
-  
+
 
 #event p {
 	font-size: 20px;
 	margin-top: 0.4rem;
 	margin-bottom: 0px;
 }
-
+#event p.maintext {
+	margin-top: 15px;
+}
 #event p.subtext {
 	text-indent: 70px;
 	font-size: 18px;
