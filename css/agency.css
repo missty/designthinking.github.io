@@ -203,17 +203,19 @@ header.transparent {
 
 
 #news a {
+	display: block;
   color: black; }
 #news a.active, #news a:active, #news a:focus, #news a:hover {
     color: #fec503 !important; }
 
 #news p {
-	line-height: 1.25;
+	display: inline-block;
+	line-height: 1.5;
 }
-#news p .news-title {
+#news p.news-title {
 	font-size: 18px;
-	line-height: 1.75;
-    font-weight: 600; }
+  font-weight: 600;
+  margin-bottom: 0.25rem; }
 
 #news .thumbnail {
   right: 0;
