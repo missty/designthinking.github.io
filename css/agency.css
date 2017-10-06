@@ -215,7 +215,7 @@ header.transparent {
 #news p.news-title {
 	font-size: 18px;
   font-weight: 600;
-  margin-bottom: 0.25rem; }
+  margin-bottom: 0.25rem !important; }
 
 #news .thumbnail {
   right: 0;
