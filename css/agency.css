@@ -202,8 +202,12 @@ header.transparent {
 #news a.active, #news a:active, #news a:focus, #news a:hover {
     color: #fec503 !important; }
 
-#news .news-title {
+#news p {
+	line-height: 1.25;
+}
+#news p .news-title {
 	font-size: 18px;
+	line-height: 1.75;
     font-weight: 600; }
 
 
