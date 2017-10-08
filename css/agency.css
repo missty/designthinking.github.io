@@ -29,8 +29,9 @@ h6 {
   text-transform: uppercase;
   word-break: keep-all !important;}
 
-h2.section-heading {
-	font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+h4.contact-subheading {
+	color: #fed136;
+	margin-bottom: 1.25rem;
 }
 
 section {
@@ -375,10 +376,10 @@ section#contact {
   section#contact .section-heading {
     color: white; }
   section#contact .form-group {
-    margin-bottom: 25px; }
+    margin-bottom: 15px; }
     section#contact .form-group input,
     section#contact .form-group textarea {
-      padding: 20px; }
+      padding: 10px; }
     section#contact .form-group input.form-control {
       height: auto; }
     section#contact .form-group textarea.form-control {
@@ -387,13 +388,13 @@ section#contact {
     border-color: #fed136;
     box-shadow: none; }
   section#contact ::-webkit-input-placeholder {
-    font-weight: 700;
-    color: #eeeeee;
+    font-weight: 400;
+    color: #c0c0c0;
     font-family: 'Noto Sans KR', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   section#contact :-moz-placeholder {
-    font-weight: 700;
-    color: #eeeeee;
+    font-weight: 400;
+    color: #c0c0c0;
     /* Firefox 18- */
     font-family: 'Noto Sans KR', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
