@@ -29,6 +29,10 @@ h6 {
   text-transform: uppercase;
   word-break: keep-all !important;}
 
+h2.section-heading {
+	font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 section {
   padding: 100px 0; }
   section h2.section-heading {
