@@ -151,9 +151,6 @@ header.masthead {
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase; }
       
-header.transparent {
-	
-}
 
 
 @media (min-width: 768px) {
@@ -173,6 +170,11 @@ header.transparent {
       margin-bottom: 25px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase; } }
+
+@media (min-width: 768px) {
+
+}
+
 
 .overlay {
   background-color: rgba(0, 0, 0, 0.7);
