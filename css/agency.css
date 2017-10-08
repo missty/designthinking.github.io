@@ -400,13 +400,13 @@ section#contact {
     text-transform: uppercase; }
   section#contact ::-moz-placeholder {
     font-weight: 700;
-    color: #eeeeee;
+    color: #c0c0c0;
     /* Firefox 19+ */
     font-family: 'Noto Sans KR', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   section#contact :-ms-input-placeholder {
     font-weight: 700;
-    color: #eeeeee;
+    color: #c0c0c0;
     font-family: 'Noto Sans KR', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   section#contact .text-danger {
